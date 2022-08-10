@@ -1,9 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
-import {
-  handleMobileDropdown,
-} from "../../common/navbar";
 
 const Navbar = ({ lr, nr, theme }) => {
   return (
@@ -13,24 +10,7 @@ const Navbar = ({ lr, nr, theme }) => {
         }`}
     >
       <div className="container container-wide">
-       
-
-        <button
-          className="navbar-toggler"
-          type="button"
-          onClick={handleMobileDropdown}
-          data-toggle="collapse"
-          data-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span className="icon-bar">
-            <i className="fas fa-bars"></i>
-          </span>
-        </button>
-
-        <div className="collapse navbar-collapse" id="navbarSupportedContent">
+        <div className="container">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
             </li>
