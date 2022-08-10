@@ -1,9 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
-import appData from "../../data/app.json";
 import {
-  handleDropdown,
   handleMobileDropdown,
 } from "../../common/navbar";
 
@@ -15,19 +13,7 @@ const Navbar = ({ lr, nr, theme }) => {
         }`}
     >
       <div className="container container-wide">
-        <Link href="/">
-          <a className="logo">
-            {theme ? (
-              theme === "themeL" ? (
-                <img ref={lr} src={`${appData.darkLogo}`} alt="logo" />
-              ) : (
-                <img ref={lr} src={`${appData.lightLogo}`} alt="logo" />
-              )
-            ) : (
-              <img ref={lr} src={`${appData.lightLogo}`} alt="logo" />
-            )}
-          </a>
-        </Link>
+       
 
         <button
           className="navbar-toggler"
