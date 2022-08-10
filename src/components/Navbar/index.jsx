@@ -35,7 +35,7 @@ const Navbar = ({ lr, nr, theme }) => {
             <li className="nav-item">
             </li>
             <li className="nav-item">
-              <Link href="https://drive.google.com/file/d/1638YMrIHOsz3e_Ozq3Tmlz2qpHugSG2Q/view?usp=sharing">
+              <Link href="https://drive.google.com/file/d/15-_yN-BVaxJwBw1dlwR670Vs-NG6c0VN/view?usp=sharing">
                 <a className="nav-link">CV</a>
               </Link>
             </li>
