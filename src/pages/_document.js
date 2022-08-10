@@ -13,8 +13,8 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta name="keywords" content="Envy Digital | Digital Design and Development Studio in Leeds" />
-          <meta name="description" content="Envy Digital | Digital Design and Development Studio in Leeds" />
+          <meta name="keywords" content="Dom Newmarch | Portfolio" />
+          <meta name="description" content="Dom Newmarch | Portfolio" />
           <meta name="author" content="" />
           <link rel="shortcut icon" href="/img/favicon.ico" />
           {/* Google Fonts */}

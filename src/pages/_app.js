@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Envy Digital | Digital Design and Development Studio in Leeds </title>
+        <title>Dom Newmarch | Portfolio </title>
         <link rel="icon" href="/img/favicon.ico" />
       </Head>
       <Cursor />
