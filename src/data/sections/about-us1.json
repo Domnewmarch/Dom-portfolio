@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "image1": "/img/backshot.png",
+  "smallTitle": "About Me",
+  "title": { "first": "Frontend Developer", "second": "Leeds" },
+  "content": "Im a passionate Front End Developer from Leeds. I create visually appealing sites that feature user-friendly design and clear navigation. Currently working at Parallax Agency, I work across a wide range of technologies and projects. I have a strong understanding of UI, cross-browser compatibility, general web functions, and standards. It’s not just about writing code; I have strong interpersonal skills and I’m passionate about learning from a team and I am dedicated to becoming the best developer that I can be."
+}

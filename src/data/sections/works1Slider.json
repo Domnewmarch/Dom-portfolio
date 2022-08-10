@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "secTex": "NextJS, Typescript",
+    "image": "/img/portfolio/portfolio-1.jpeg",
+    "github": "https://www.github.com",
+    "slug": "https://www.envydigital-webdesign.co.uk"
+  },
+  {
+    "id": 2,
+    "title": "Parkside Building Contractors",
+    "secTex": "GatsbyJS",
+    "image": "/img/portfolio/portfolio-1.jpeg",
+    "github": "https://github.com/Domnewmarch/parkside-builders-site",
+    "slug": "https://parksidebuildingcontractors.co.uk/"
+  },
+  {
+    "id": 3,
+    "title": "Guess That Song Game",
+    "secTex": "NextJS, TailwindCSS",
+    "image": "/img/portfolio/portfolio-2.jpeg",
+    "github": "https://github.com/Domnewmarch/guess-that-song",
+    "slug": "https://guess-that-song.vercel.app/dashboard"
+  },
+  {
+    "id": 4,
+    "title": "Personal Links Project",
+    "secTex": "NextJS, TailwindCSS",
+    "image": "/img/portfolio/portfolio-2.jpeg",
+    "github": "https://github.com/Domnewmarch/Envy-Links",
+    "slug": "https://domnewmarch-links.vercel.app/"
+  }
+]
