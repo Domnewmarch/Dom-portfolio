@@ -31,10 +31,8 @@ const Homepage1 = () => {
     window.addEventListener("scroll", () => {
       if (window.pageYOffset > 300) {
         navbar.classList.add("nav-scroll");
-        logo.setAttribute("src", appData.darkLogo);
       } else {
         navbar.classList.remove("nav-scroll");
-        logo.setAttribute("src", appData.lightLogo);
       }
     });
   }, [fixedSlider, MainContent, navbarRef]);
