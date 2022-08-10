@@ -4,8 +4,8 @@
     "title": "Portfolio Website",
     "secTex": "NextJS, Typescript",
     "image": "/img/portfolio/portfolio-1.jpeg",
-    "github": "https://www.github.com",
-    "slug": "https://www.envydigital-webdesign.co.uk"
+    "github": "https://github.com/Domnewmarch/Dom-portfolio",
+    "slug": "https://dom-portfolio-ten.vercel.app/"
   },
   {
     "id": 2,
